@@ -1,0 +1,10 @@
+first create namespace,deployment and service yml 
+
+and final step is  Port Forwarding to a Service
+
+kubectl port-forward service/notes-app-service 8000:8000
+
+service name will get using kubectl get service 
+
+kubectl port-forward service/notes-app-service -n notes-app-nm 8000:8000 --address=0.0.0.0
+

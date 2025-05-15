@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: notes-app-service
+  namespace: notes-app-nm  # Or your custom namespace
+spec:
+  selector:
+    app: notes-app        # Must match pod/deployment labels
+  ports:
+    - protocol: TCP
+      port: 8000          # Port exposed by the service
+      targetPort: 8000  # Port exposed by the container
+  type: ClusterIP       # Can be NodePort or LoadBalancer
+

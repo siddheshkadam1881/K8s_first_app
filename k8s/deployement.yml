@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: notes-app     # Name of the deployment
+  namespace: notes-app-nm          # (Optional) Kubernetes namespace
+  labels:
+    app: notes-app               # Metadata labels
+spec:
+  replicas: 1                # Number of desired pod replicas
+  selector:
+    matchLabels:
+      app: notes-app             # Must match pod template labels
+  template:
+    metadata:
+      labels:
+        app: notes-app           # Labels for pods
+    spec:
+      containers:
+        - name: notes-app
+          image:  trainwithshubham/notes-app-k8s    # Docker image to run
+          ports:
+            - containerPort: 8000
