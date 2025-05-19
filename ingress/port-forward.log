@@ -2,3 +2,78 @@ nohup: ignoring input
 Forwarding from 0.0.0.0:8082 -> 80
 Handling connection for 8082
 Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+E0516 17:54:05.777271  438908 portforward.go:398] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 172.31.17.235:8082->206.168.34.117:59492: read tcp4 172.31.17.235:8082->206.168.34.117:59492: read: connection reset by peer"
+Handling connection for 8082
+E0516 17:54:06.808847  438908 portforward.go:398] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 172.31.17.235:8082->206.168.34.117:35364: read tcp4 172.31.17.235:8082->206.168.34.117:35364: read: connection reset by peer"
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+E0516 17:54:18.383623  438908 portforward.go:398] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 172.31.17.235:8082->206.168.34.117:39540: read tcp4 172.31.17.235:8082->206.168.34.117:39540: read: connection reset by peer"
+Handling connection for 8082
+Handling connection for 8082
+E0516 17:54:31.473901  438908 portforward.go:398] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 172.31.17.235:8082->206.168.34.117:50740: read tcp4 172.31.17.235:8082->206.168.34.117:50740: read: connection reset by peer"
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+E0516 23:44:10.042230  438908 portforward.go:398] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 172.31.17.235:8082->199.45.154.124:41556: read tcp4 172.31.17.235:8082->199.45.154.124:41556: read: connection reset by peer"
+Handling connection for 8082
+E0516 23:44:10.828729  438908 portforward.go:398] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 172.31.17.235:8082->199.45.154.124:41570: read tcp4 172.31.17.235:8082->199.45.154.124:41570: read: connection reset by peer"
+Handling connection for 8082
+E0516 23:44:20.359875  438908 portforward.go:398] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 172.31.17.235:8082->199.45.154.124:41584: read tcp4 172.31.17.235:8082->199.45.154.124:41584: read: connection reset by peer"
+Handling connection for 8082
+Handling connection for 8082
+E0516 23:44:27.909111  438908 portforward.go:398] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 172.31.17.235:8082->199.45.154.124:55808: read tcp4 172.31.17.235:8082->199.45.154.124:55808: read: connection reset by peer"
+Handling connection for 8082
+Handling connection for 8082
+E0516 23:44:32.448836  438908 portforward.go:398] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 172.31.17.235:8082->199.45.154.124:55838: read tcp4 172.31.17.235:8082->199.45.154.124:55838: read: connection reset by peer"
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+E0518 03:09:44.134942  438908 portforward.go:398] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 172.31.17.235:8082->167.94.138.191:45066: read tcp4 172.31.17.235:8082->167.94.138.191:45066: read: connection reset by peer"
+Handling connection for 8082
+Handling connection for 8082
+E0518 03:10:19.584661  438908 portforward.go:398] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 172.31.17.235:8082->167.94.138.191:33114: read tcp4 172.31.17.235:8082->167.94.138.191:33114: read: connection reset by peer"
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+E0518 18:46:22.251568  438908 portforward.go:398] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 172.31.17.235:8082->198.235.24.150:50099: read tcp4 172.31.17.235:8082->198.235.24.150:50099: read: connection reset by peer"
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
+Handling connection for 8082
