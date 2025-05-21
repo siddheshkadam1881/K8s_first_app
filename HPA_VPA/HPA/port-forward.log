@@ -31980,3 +31980,26 @@ Handling connection for 8090
 Handling connection for 8090
 Handling connection for 8090
 Handling connection for 8090
+Handling connection for 8090
+Handling connection for 8090
+Handling connection for 8090
+Handling connection for 8090
+Handling connection for 8090
+E0520 12:48:40.218300   21998 portforward.go:398] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 172.31.17.235:8090->199.45.154.118:47242: read tcp4 172.31.17.235:8090->199.45.154.118:47242: read: connection reset by peer"
+Handling connection for 8090
+E0520 12:48:49.413644   21998 portforward.go:398] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 172.31.17.235:8090->199.45.154.118:47252: read tcp4 172.31.17.235:8090->199.45.154.118:47252: read: connection reset by peer"
+Handling connection for 8090
+Handling connection for 8090
+Handling connection for 8090
+E0520 12:48:53.681035   21998 portforward.go:398] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 172.31.17.235:8090->199.45.154.118:37640: read tcp4 172.31.17.235:8090->199.45.154.118:37640: read: connection reset by peer"
+Handling connection for 8090
+Handling connection for 8090
+E0520 12:48:57.561675   21998 portforward.go:398] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 172.31.17.235:8090->199.45.154.118:37890: read tcp4 172.31.17.235:8090->199.45.154.118:37890: read: connection reset by peer"
+Handling connection for 8090
+Handling connection for 8090
+Handling connection for 8090
+Handling connection for 8090
+Handling connection for 8090
+Handling connection for 8090
+Handling connection for 8090
+Handling connection for 8090
